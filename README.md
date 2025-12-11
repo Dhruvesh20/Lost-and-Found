@@ -37,7 +37,7 @@ A student begins by registering using the following details:
 After filling the form, the user clicks **Send Link**, which triggers Firebase to send a verification link to the provided email.  
 
 ### 📸 Registration Page  
-<img width="975" height="459" alt="image" src="https://github.com/user-attachments/assets/a9b878cf-6183-465f-875d-5ae337e9df1c" />
+<img width="900" alt="Registration Page" src="https://raw.githubusercontent.com/Dhruvesh20/Lost-and-Found/main/assets/images/image1.png" />
 
 
 # 2️⃣ Email Verification  
@@ -47,8 +47,8 @@ Only after verifying the email can the user click **Register** to complete accou
 
 
 ### 📸 Email Verification Screenshot  
-<img width="1517" height="235" alt="image" src="https://github.com/user-attachments/assets/b08e5529-7884-425d-8664-36fc807fb9c6" />
-<img width="1541" height="678" alt="image" src="https://github.com/user-attachments/assets/37fdc2be-ca76-47ea-999a-694de3cd73f5" />
+<img width="900" alt="Email Verification 1" src="https://raw.githubusercontent.com/Dhruvesh20/Lost-and-Found/main/assets/images/image2.png" />
+<img width="900" alt="Email Verification 2" src="https://raw.githubusercontent.com/Dhruvesh20/Lost-and-Found/main/assets/images/image3.png" />
 
 
 # 3️⃣ Dashboard  
@@ -62,7 +62,7 @@ After successful registration and email verification, the user is redirected to 
 - My Responses  
 
 ### 📸 Dashboard Screenshot  
-<img width="975" height="461" alt="image" src="https://github.com/user-attachments/assets/b9d7b71e-fdb6-49e9-b1ec-1cdd04ce9819" />
+<img width="900" alt="Dashboard" src="https://raw.githubusercontent.com/Dhruvesh20/Lost-and-Found/main/assets/images/image4.png" />
 
 
 # 4️⃣ Reporting a Lost or Found Item  
@@ -78,7 +78,7 @@ Users can submit an item report via **Report Item**. Required details:
 This ensures accurate identification of reported items.  
 
 ### 📸 Report Item Form  
-<img width="975" height="467" alt="image" src="https://github.com/user-attachments/assets/38720a32-f0dc-4dde-8796-2fbca65cc557" />
+<img width="900" alt="Report Item Form" src="https://raw.githubusercontent.com/Dhruvesh20/Lost-and-Found/main/assets/images/image5.png" />
 
 
 # 5️⃣ My Listings – Reporter-Only Items  
@@ -90,7 +90,7 @@ Important behavior:
 - Clicking any item shows all responses submitted by claimants/founders.  
 
 ### 📸 My Listings  
-<img width="975" height="390" alt="image" src="https://github.com/user-attachments/assets/31bc4714-d7f0-40bd-8489-95e6e1daa738" />
+<img width="900" alt="My Listings" src="https://raw.githubusercontent.com/Dhruvesh20/Lost-and-Found/main/assets/images/image6.png" />
 
 
 # 6️⃣ Lost & Found Tabs (Visible to Other Users)
@@ -101,14 +101,14 @@ Other students browsing the system can see reported items categorized as:
 ### 🔵 Lost Items Tab  
 Shows all items marked "Lost" by other users.  
 
-<img width="975" height="338" alt="image" src="https://github.com/user-attachments/assets/ee21a601-7bf6-4c84-9a72-99c2d3679bf5" />
+<img width="900" alt="Lost Items Tab" src="https://raw.githubusercontent.com/Dhruvesh20/Lost-and-Found/main/assets/images/image7.png" />
 
 
 
 ### 🟢 Found Items Tab  
 Shows items marked "Found" by other users.  
 
-<img width="975" height="334" alt="image" src="https://github.com/user-attachments/assets/60e42555-4a62-4798-8ecc-2216bd3733e3" />
+<img width="900" alt="Found Items Tab" src="https://raw.githubusercontent.com/Dhruvesh20/Lost-and-Found/main/assets/images/image8.png" />
 
 
 
@@ -122,7 +122,7 @@ A student can claim an item (lost or found) by:
 This ensures that only genuine owners or correct founders interact.  
 
 ### 📸 Claim Item Form  
-<img width="975" height="457" alt="image" src="https://github.com/user-attachments/assets/afbc2f9b-fa90-4174-8519-29ffa8c3003d" />
+<img width="900" alt="Claim Item Form" src="https://raw.githubusercontent.com/Dhruvesh20/Lost-and-Found/main/assets/images/image9.png" />
 
 
 # 8️⃣ My Responses – Track Your Submitted Claims  
@@ -134,7 +134,7 @@ Each response initially has status:
 - **Moderation** (Pending Reporter Action)  
 
 ### 📸 My Responses Screenshot  
-<img width="975" height="335" alt="image" src="https://github.com/user-attachments/assets/a899a655-630b-4ba4-9997-f20d41f2078a" />
+<img width="900" alt="My Responses" src="https://raw.githubusercontent.com/Dhruvesh20/Lost-and-Found/main/assets/images/image10.png" />
 
 
 
@@ -149,7 +149,7 @@ They have two actions:
 Accept/Reject controls access to communication.  
 
 ### 📸 Moderation Panel Screenshot  
-<img width="763" height="591" alt="image" src="https://github.com/user-attachments/assets/548a22c9-b3ab-4435-9b29-456dd55b7b42" />
+<img width="700" alt="Moderation Panel" src="https://raw.githubusercontent.com/Dhruvesh20/Lost-and-Found/main/assets/images/image11.png" />
 
 
 
@@ -166,7 +166,7 @@ If rejected:
 - Chat remains disabled  
 
 ### 📸 Chat Interface Screenshot  
-<img width="975" height="400" alt="image" src="https://github.com/user-attachments/assets/340a9f89-f6a4-4942-986c-ad9b9cf1603b" />
+<img width="900" alt="Chat Interface" src="https://raw.githubusercontent.com/Dhruvesh20/Lost-and-Found/main/assets/images/image12.png" />
 
 
 
